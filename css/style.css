@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #E5E8E8;
+    padding-bottom: 20px;
+}
+
+.quem-somos{
+    background-color: #A3E4D7;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.letra{
+    font-family:initial;
+    padding-top: 20px;
+}
+
+.parceiros{
+    padding-top: 20px;
+    background-color: #E5E8E8;
+}
+
+.estudos{
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FAD7A0 ;
+    padding-bottom: 30px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: #fff;
+}
+
